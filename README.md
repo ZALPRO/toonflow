@@ -19,12 +19,14 @@ Two-Pass Seamless Characters · Complete Male & Female Rigs · 16:9 & 9:16 Safe-
 
 <br>
 
-<a href="docs/media/toonflow-showcase-en.mp4">
+<a href="https://github.com/ZALPRO/toonflow/releases/download/v1.0.0/toonflow-showcase-en.mp4">
   <img src="docs/media/toonflow-showcase.gif" alt="ToonFlow v1.0.0 Live English Demo Animation (Click for Full 1080p MP4 with Studio Audio)" width="920">
 </a>
 
 <p align="center">
-  <a href="docs/media/toonflow-showcase-en.mp4"><b>▶ Click to Watch / Download the Full 1080p English Demo Video with Studio Voiceover, SFX &amp; Music (<code>toonflow-showcase-en.mp4</code> · 53s)</b></a>
+  <a href="https://github.com/ZALPRO/toonflow/releases/download/v1.0.0/toonflow-showcase-en.mp4"><b>▶ Watch / Download Full 1080p English Demo Video with Studio Voiceover, SFX &amp; Music (<code>toonflow-showcase-en.mp4</code> · 53s)</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ZALPRO/toonflow/releases/tag/v1.0.0"><b>📦 View All v1.0.0 Release Videos &amp; Archives</b></a>
 </p>
 
 </div>
@@ -159,13 +161,13 @@ const GY = groundY(SCALE, GROUND_Y);
 
 All **5 full production projects** in [`examples/`](examples/) compile with zero TypeScript errors (`npx tsc --noEmit`) and include every scene, cue, SFX map, and frame-locked timeline:
 
-| # | Directory | Format | Duration | Description |
-|---|---|---|---|---|
-| **00** | [`examples/00-english-wealth-explainer-16x9/`](examples/00-english-wealth-explainer-16x9/) | `1920×1080` (`16:9`) | `52.97s` (`1589f`) | **English Flagship Demo**: *The $10,000 Inflation Test: Bank Savings vs. Gold & Real Assets* (`Alex` & `Maya`) |
-| **01** | [`examples/01-bank-vs-gold-reel-9x16/`](examples/01-bank-vs-gold-reel-9x16/) | `1080×1920` (`9:16`) | `52.53s` (`1576f`) | **Vertical Financial Reel**: *Bank Deposit vs. Gold & Real Estate in Inflation* (`آرش` & `سارا`) |
-| **02** | [`examples/02-fomo-market-trap-reel-9x16/`](examples/02-fomo-market-trap-reel-9x16/) | `1080×1920` (`9:16`) | `69.27s` (`2078f`) | **Vertical Market Psychology Reel + `Covers.tsx`**: *The FOMO Peak Trap vs. 3-Step Smart DCA* |
-| **03** | [`examples/03-iran-iraq-war-documentary-16x9/`](examples/03-iran-iraq-war-documentary-16x9/) | `1920×1080` (`16:9`) | `86.13s` (`2584f`) | **Historical Documentary**: *8-Year Iran-Iraq War (1980–1988)* with military props, themes & `<StatBar>` |
-| **04** | [`examples/04-christopher-columbus-16x9/`](examples/04-christopher-columbus-16x9/) | `1920×1080` (`16:9`) | `82.98s` (`2489f`) | **Biographical Explainer**: *The 1492 Voyage of Christopher Columbus* with naval caravels & royal court |
+| # | Directory | Format | Duration | Rendered MP4 | Description |
+|---|---|---|---|---|---|
+| **00** | [`examples/00-english-wealth-explainer-16x9/`](examples/00-english-wealth-explainer-16x9/) | `1920×1080` (`16:9`) | `52.97s` (`1589f`) | [▶ Watch MP4](https://github.com/ZALPRO/toonflow/releases/download/v1.0.0/toonflow-showcase-en.mp4) | **English Flagship Demo**: *The $10,000 Inflation Test: Bank Savings vs. Gold & Real Assets* (`Alex` & `Maya`) |
+| **01** | [`examples/01-bank-vs-gold-reel-9x16/`](examples/01-bank-vs-gold-reel-9x16/) | `1080×1920` (`9:16`) | `52.53s` (`1576f`) | [▶ Watch MP4](https://github.com/ZALPRO/toonflow/releases/download/v1.0.0/ghimatrooz-reel-9x16.mp4) | **Vertical Financial Reel**: *Bank Deposit vs. Gold & Real Estate in Inflation* (`آرش` & `سارا`) |
+| **02** | [`examples/02-fomo-market-trap-reel-9x16/`](examples/02-fomo-market-trap-reel-9x16/) | `1080×1920` (`9:16`) | `69.27s` (`2078f`) | [▶ Watch MP4](https://github.com/ZALPRO/toonflow/releases/download/v1.0.0/ghimatrooz-fomo-reel-9x16.mp4) | **Vertical Market Psychology Reel + `Covers.tsx`**: *The FOMO Peak Trap vs. 3-Step Smart DCA* |
+| **03** | [`examples/03-iran-iraq-war-documentary-16x9/`](examples/03-iran-iraq-war-documentary-16x9/) | `1920×1080` (`16:9`) | `86.13s` (`2584f`) | [▶ Watch MP4](https://github.com/ZALPRO/toonflow/releases/download/v1.0.0/iran-iraq-war-16x9.mp4) | **Historical Documentary**: *8-Year Iran-Iraq War (1980–1988)* with military props, themes & `<StatBar>` |
+| **04** | [`examples/04-christopher-columbus-16x9/`](examples/04-christopher-columbus-16x9/) | `1920×1080` (`16:9`) | `82.98s` (`2489f`) | [▶ Watch MP4](https://github.com/ZALPRO/toonflow/releases/download/v1.0.0/christopher-columbus-16x9.mp4) | **Biographical Explainer**: *The 1492 Voyage of Christopher Columbus* with naval caravels & royal court |
 
 ---
 

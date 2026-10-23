@@ -10,12 +10,14 @@
 
 <br>
 
-<a href="docs/media/toonflow-showcase-en.mp4">
+<a href="https://github.com/ZALPRO/toonflow/releases/download/v1.0.0/toonflow-showcase-en.mp4">
   <img src="docs/media/toonflow-showcase.gif" alt="ToonFlow v1.0.0 Live Demo" width="920">
 </a>
 
 <p align="center">
-  <a href="docs/media/toonflow-showcase-en.mp4"><b>▶ تماشا / دانلود ویدیوی دموی کامل انگلیسی با کیفیت 1080p و صدای استودیویی (<code>toonflow-showcase-en.mp4</code>)</b></a>
+  <a href="https://github.com/ZALPRO/toonflow/releases/download/v1.0.0/toonflow-showcase-en.mp4"><b>▶ تماشا / دانلود ویدیوی دموی کامل انگلیسی با کیفیت 1080p و صدای استودیویی (<code>toonflow-showcase-en.mp4</code>)</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ZALPRO/toonflow/releases/tag/v1.0.0"><b>📦 دانلود تمام ۵ ویدیوی رندرشده در بخش Releases</b></a>
 </p>
 
 </div>
