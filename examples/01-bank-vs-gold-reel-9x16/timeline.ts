@@ -1,0 +1,95 @@
+// Auto-generated from ElevenLabs v3 Studio Voice
+export const TIMELINE = {
+  "fps": 30,
+  "durationInFrames": 1576,
+  "durationSec": 52.53,
+  "cues": [
+    {
+      "index": 0,
+      "id": "cue_00",
+      "startFrame": 16,
+      "endFrame": 162,
+      "startSec": 0.533,
+      "endSec": 5.4,
+      "text": "ده سال پیش، آرش و سارا هر کدام ۱۰۰ میلیون تومان پس‌انداز داشتند."
+    },
+    {
+      "index": 1,
+      "id": "cue_01",
+      "startFrame": 172,
+      "endFrame": 328,
+      "startSec": 5.733,
+      "endSec": 10.933,
+      "text": "آرش پولش را در بانک گذاشت، اما سارا با تمام پولش سکه طلا خرید."
+    },
+    {
+      "index": 2,
+      "id": "cue_02",
+      "startFrame": 338,
+      "endFrame": 494,
+      "startSec": 11.267,
+      "endSec": 16.467,
+      "text": "آن روز با ۱۰۰ میلیون تومان، می‌شد ۱۰۰ سکه طلا یا یک آپارتمان خرید!"
+    },
+    {
+      "index": 3,
+      "id": "cue_03",
+      "startFrame": 559,
+      "endFrame": 692,
+      "startSec": 18.633,
+      "endSec": 23.067,
+      "text": "بعد از ده سال، پول آرش با سود بانکی شد ۶۰۰ میلیون تومان."
+    },
+    {
+      "index": 4,
+      "id": "cue_04",
+      "startFrame": 702,
+      "endFrame": 884,
+      "startSec": 23.4,
+      "endSec": 29.467,
+      "text": "اما تورم ۴۰ درصدی، قدرت خرید پول آرش را مثل یک قالب یخ آب کرد!"
+    },
+    {
+      "index": 5,
+      "id": "cue_05",
+      "startFrame": 894,
+      "endFrame": 1055,
+      "startSec": 29.8,
+      "endSec": 35.167,
+      "text": "در مقابل، ۱۰۰ سکه سارا امروز بیش از ۵ میلیارد تومان ارزش دارد!"
+    },
+    {
+      "index": 6,
+      "id": "cue_06",
+      "startFrame": 1120,
+      "endFrame": 1352,
+      "startSec": 37.333,
+      "endSec": 45.067,
+      "text": "قانون اول حفظ سرمایه: فقط به عدد سود بانکی نگاه نکنید؛ معیار واقعی قدرت خرید است."
+    },
+    {
+      "index": 7,
+      "id": "cue_07",
+      "startFrame": 1362,
+      "endFrame": 1544,
+      "startSec": 45.4,
+      "endSec": 51.467,
+      "text": "پس‌انداز خود را به دارایی واقعی تبدیل کنید! برای تحلیل‌های روزانه، پیج را دنبال کنید."
+    }
+  ],
+  "chapters": [
+    {
+      "index": 0,
+      "afterCue": 2,
+      "startFrame": 509,
+      "endFrame": 553
+    },
+    {
+      "index": 1,
+      "afterCue": 5,
+      "startFrame": 1070,
+      "endFrame": 1114
+    }
+  ]
+} as const;
+export const DURATION = 1576;

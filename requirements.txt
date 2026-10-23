@@ -1,0 +1,6 @@
+numpy
+scipy
+pillow
+# optional
+faster-whisper          # align_voice.py / transcribe_voice.py
+youtube-transcript-api  # fetch_transcript.py

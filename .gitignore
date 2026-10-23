@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node / Remotion (in case the skill folder is used as a test project)
+node_modules/
+out/
+_frames/
+.remotion/
+
+# Media generated while testing the skill
+*.mp4
+*.mov
+*.wav
+*.mp3
+sheet*.png
+
+# skill-creator eval workspaces
+*-workspace/
+
+# Editors and OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local secrets
+.env
+.env.*
+
+!docs/media/*.mp4
